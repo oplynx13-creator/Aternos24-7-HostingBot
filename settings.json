@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "moom",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "lynxop786.aternos.me",
     "port": 46982,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Slobos"
     },
     "anti-afk": {
       "enabled": true,
